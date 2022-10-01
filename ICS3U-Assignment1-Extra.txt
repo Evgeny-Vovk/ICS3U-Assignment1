@@ -1,0 +1,31 @@
+1. What is a front door attack? What are some examples?
+1)   All front-door attacks require the actions of the user to allow the virus to infect the system.
+     This is why they are referred to as a front-door attack, as metaphorically, the user is tricked into opening the front door and letting the virus in. The most common ways in which this style of attack is disguised are emails, web browsing or downloads. 
+     Once you've allowed the virus to enter your system, it then has control of all of your data. The hackers then have the ability to run a program with all your rights and privileges. This also means that they can delete all of your stored files too.
+     The virus can easily be spread further as it will grant the hackers access to your emails which could be used to run a program to send thousands of spam emails to your contact list.
+     As your contacts would normally receive trustworthy emails from you, the risk of them following the link or downloading the attachment would be greater. 
+     Examples : ILOVEYOU, Peyta attack.
+
+
+2. What is a backdoor attack? What are some examples?
+2)   A back-door virus is any form of program that grants unauthorized access to an entire system via a software or network vulnerability. These attacks differ from front-door as they do not require any action by the user of the system and still hold the ability to infect.
+     Older systems that are no longer supported by the supplier are the most vulnerable to come under attack. Suppliers will release various security patches included in system updates at regular intervals in order to keep their system safe from cyber attacks.
+     Users will often delay downloading and updating their systems as they see it as an inconvenience. This is a hacker's dream as the weaknesses that are being patched in the updates are common knowledge, therefore they know the exact weak points of the systems that won't update straight away and where to attack.
+     Examples : May 2017 saw one of the largest back-door Ransomware attacks of recent times sweep across 150 different countries around the world. This attack specifically targeted Microsoft Windows operating systems by infecting data and demanding payments through Bitcoin cryptocurrency.
+
+
+3. Give some examples of what malware tries to accomplish.
+3)   There are different types of malwares, their goals can be different, some will try to get information from you,
+     some can take control over your computer and manipulate you to give money so they wont delete your system with all the important stuff you have on your pc,
+     nowadays, many viruses are mining cryptocurrency on your pc, which makes the computer very slow and sometimes impossible to use.
+
+
+4. Describe ways that ethical hackers try to make systems more secure.
+4)   Ethical hackers use their knowledge to secure and improve the technology of organizations. They provide an essential service to these organizations by looking for vulnerabilities that can lead to a security breach.
+     An ethical hacker reports the identified vulnerabilities to the organization. Additionally, they provide remediation advice. In many cases, with the organization’s consent, the ethical hacker performs a re-test to ensure the vulnerabilities are fully resolved.
+
+
+5. Describe things you can do to secure your computer against attack.
+5)   The most preferable way to protect your computer is to get an antivirus that will protect and remove the virus if it sees something suspicious,
+     some are weaker antiviruses, but the problem is that many of them are not for free, so if you want to protect your computer, you should be aware and always careful with what you are downloading and what sites you enter,
+     some of them might be fake and the link will be different by just one character.

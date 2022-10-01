@@ -1,0 +1,30 @@
+1. State the type of Malware you have chosen. 
+1)   ILOVEYOU type is worm.
+
+
+2. Define what the particular malware is.
+2)  ILOVEYOU, sometimes referred to as Love Bug or Love Letter for you,
+    is a computer worm that infected over ten million Windows personal computers on and after 5 May 2000.
+
+
+3. How can you get it? 
+3)   It started spreading as an email message with the subject line "ILOVEYOU" and the attachment "LOVE-LETTER-FOR-YOU.TXT.vbs.",
+    saying “I love you and I want you to read this message,” after downloading the file,
+     the virus would clone itself and send new mails the same way to other people, this way it spread up to ten millions windows computers.
+
+
+4. What can it do to your computer?
+4)   When the affected user opens the attachment,
+     their action instantly downloads the worm into their system without their knowledge and starts spreading it across the network,
+     what it does to your is it’s deleting your files,
+     replacing them and making a mess in your storage while making thousands of copies of the virus so it makes it hard to delete the virus back then.
+
+
+5. How do you prevent it from happening?
+5)   Now the virus is gone, but back then, there were not many antiviruses or something that could help you prevent it,
+     the only way to prevent it was not to download the file sent in the mail.  
+
+
+6. Provide at least two (2) sources in bibliographic format (just like English class!).
+6)   “Iloveyou.” Wikipedia, Wikimedia Foundation, 24 Aug. 2022, https://en.wikipedia.org/wiki/ILOVEYOU. 
+     NationSquid. “The World's Worst Computer Virus: The I Love You Virus (Demonstration).” YouTube, YouTube, 3 Apr. 2020, https://www.youtube.com/watch?v=NZDiQczOsdc. 
